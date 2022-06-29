@@ -1,9 +1,7 @@
 # CodeWars Challenges:
 As of the past couple months, I try to do a CodeWar problem or two to work on my JS fundamentals
 
-
-![Screen Shot 2022-06-29 at 2 13 53 PM](https://user-images.githubusercontent.com/62025065/176506985-5e6cc111-109e-4824-9966-186e782b58d6.png)
-
+![Screen Shot 2022-06-29 at 2 16 11 PM](https://user-images.githubusercontent.com/62025065/176507374-0a21aa0c-42c9-465f-ab60-12636e49beac.png)
 
 
 ## How It's Made:
