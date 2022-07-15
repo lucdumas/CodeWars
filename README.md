@@ -1,12 +1,9 @@
 # CodeWars Challenges:
-As of the past couple months, I try to do a CodeWar problem or two to work on my JS fundamentals
-
-![Screen Shot 2022-06-29 at 2 16 11 PM](https://user-images.githubusercontent.com/62025065/176507374-0a21aa0c-42c9-465f-ab60-12636e49beac.png)
+I aim to do a CodeWar problem or two on most days to practice my JS fundamentals and work on my ability to solve more diffcult problems.
 
 
-## How It's Made:
+![Screen Shot 2022-07-15 at 2 17 59 PM](https://user-images.githubusercontent.com/62025065/179286353-aa265691-cd4a-42ab-ac89-df6e430cb4f3.png)
 
-**Tech used:** JavaScript
 
 
 ## Optimizations
